@@ -1,0 +1,20 @@
+{
+  "name": "jenkins-memory-game",
+  "version": "1.0.0",
+  "description": "Memory game for Jenkins Automated Deployment using CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayanti18/jenkins-memory-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayanti18/jenkins-memory-game/issues"
+  },
+  "homepage": "https://github.com/Jayanti18/jenkins-memory-game#readme"
+}
