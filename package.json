@@ -4,8 +4,13 @@
   "description": "Memory game for Jenkins Automated Deployment using CI/CD",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "harp server --port $PORT"
+    
   },
+  "dependencies": {
+    "harp": "*"
+  },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jayanti18/jenkins-memory-game.git"
